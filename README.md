@@ -1,3 +1,3 @@
 # My-webpage
 
-This webpage can be found here: http://platinado.cba.pl/
+The online version of this webpage can be found here: http://platinado.cba.pl/
