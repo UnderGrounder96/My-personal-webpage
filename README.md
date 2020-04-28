@@ -1,6 +1,7 @@
 My personal webpage
 -------------------------
 This PHP project is a simple "about me" page. It contains some JS games, MySQL viewers response database and a Google Map.
+Fun fact: The entire page is in polish.
 
 Getting Started
 ------------------
